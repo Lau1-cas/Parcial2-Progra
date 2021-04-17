@@ -1,0 +1,20 @@
+C:\Users\USUARIO\Pictures\Clase7 windows forms\Clase7 windows forms\bin\Debug\Clase7 windows forms.exe.config
+C:\Users\USUARIO\Pictures\Clase7 windows forms\Clase7 windows forms\bin\Debug\Clase7 windows forms.exe
+C:\Users\USUARIO\Pictures\Clase7 windows forms\Clase7 windows forms\bin\Debug\Clase7 windows forms.pdb
+C:\Users\USUARIO\Pictures\Clase7 windows forms\Clase7 windows forms\obj\Debug\Clase7 windows forms.csprojAssemblyReference.cache
+C:\Users\USUARIO\Pictures\Clase7 windows forms\Clase7 windows forms\obj\Debug\Clase7_windows_forms.Form1.resources
+C:\Users\USUARIO\Pictures\Clase7 windows forms\Clase7 windows forms\obj\Debug\Clase7_windows_forms.Properties.Resources.resources
+C:\Users\USUARIO\Pictures\Clase7 windows forms\Clase7 windows forms\obj\Debug\Clase7 windows forms.csproj.GenerateResource.cache
+C:\Users\USUARIO\Pictures\Clase7 windows forms\Clase7 windows forms\obj\Debug\Clase7 windows forms.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Pictures\Clase7 windows forms\Clase7 windows forms\obj\Debug\Clase7 windows forms.exe
+C:\Users\USUARIO\Pictures\Clase7 windows forms\Clase7 windows forms\obj\Debug\Clase7 windows forms.pdb
+C:\Users\USUARIO\Pictures\Clase7WindowsForms\Clase7 windows forms\bin\Debug\Clase7 windows forms.exe.config
+C:\Users\USUARIO\Pictures\Clase7WindowsForms\Clase7 windows forms\bin\Debug\Clase7 windows forms.exe
+C:\Users\USUARIO\Pictures\Clase7WindowsForms\Clase7 windows forms\bin\Debug\Clase7 windows forms.pdb
+C:\Users\USUARIO\Pictures\Clase7WindowsForms\Clase7 windows forms\obj\Debug\Clase7 windows forms.csprojAssemblyReference.cache
+C:\Users\USUARIO\Pictures\Clase7WindowsForms\Clase7 windows forms\obj\Debug\Clase7_windows_forms.Form1.resources
+C:\Users\USUARIO\Pictures\Clase7WindowsForms\Clase7 windows forms\obj\Debug\Clase7_windows_forms.Properties.Resources.resources
+C:\Users\USUARIO\Pictures\Clase7WindowsForms\Clase7 windows forms\obj\Debug\Clase7 windows forms.csproj.GenerateResource.cache
+C:\Users\USUARIO\Pictures\Clase7WindowsForms\Clase7 windows forms\obj\Debug\Clase7 windows forms.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Pictures\Clase7WindowsForms\Clase7 windows forms\obj\Debug\Clase7 windows forms.exe
+C:\Users\USUARIO\Pictures\Clase7WindowsForms\Clase7 windows forms\obj\Debug\Clase7 windows forms.pdb
